@@ -1,14 +1,14 @@
 Time Period,Product Category,Average Price,Demand Index
 2022-01,Dairy,8.32,52
 2022-01,Produce,14.22,96
-2022-01,Meat,3.76,64
-2022-01,Beverages,10.95,79
-2022-01,Snacks,8.68,78
-2022-01,Bakery,14.89,99
+2022-01,Meat,3.7,64
+2022-01,Beverages,10.9,79
+2022-01,Snacks,8.6,78
+2022-01,Bakery,14.8,99
 2022-02,Dairy,9.69,52
 2022-02,Produce,7.89,51
-2022-02,Meat,5.44,80
-2022-02,Beverages,10.61,83
+2022-02,Meat,5.4,80
+2022-02,Beverages,10.6,83
 2022-02,Snacks,8.56,93
 2022-02,Bakery,9.2,86
 2022-03,Dairy,7.82,91
