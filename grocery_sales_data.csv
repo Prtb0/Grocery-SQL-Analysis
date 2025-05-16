@@ -5,7 +5,6 @@ Transaction Date,Product Name,Quantity Sold,Revenue,Profit Margin,Store Location
 2023-01-01,Soda,100,1745.0,10.91,New York
 2023-01-01,Chips,64,757.12,6.96,New York
 2023-01-01,Bread,48,765.12,14.19,New York
-2023-01-01,Milk,88,1004.08,9.89,Los Angeles
 2023-01-01,Bananas,75,345.75,21.96,Los Angeles
 2023-01-01,Chicken,14,224.42,23.86,Los Angeles
 2023-01-01,Soda,11,106.59,19.68,Los Angeles
